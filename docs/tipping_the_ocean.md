@@ -42,6 +42,5 @@ Temperature and density driven flow, works opposite of the salinity driven flow.
 ### Are the models in the right regime? 
 - Observation indicate that AMOC is in the multistable regime. 
 - Models show the opposite regime exporting salt. Due to too much evaporation 
-  at the equator. AMOC in the CMIP6 is too stable and will never got to the   
-  other state.
+  at the equator. AMOC in the CMIP6 is too stable and will never got to the other state.
 - The high resolution models are not enormously better.
