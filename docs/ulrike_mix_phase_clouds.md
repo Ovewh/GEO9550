@@ -2,6 +2,10 @@
 # Mixed-phase clouds: Insights from observations and modelling
 ###### tags: `GEO9550`
 
+***Date:*** *Oslo joint seminar Nov 24 2022* 
+
+***Speaker:*** *Ulrike Lohmann, ETH Zürich*
+
 ### Why do we care about mixed phased clouds?
 - Radiation bias due to mixed-phase clouds in the arctic. Too much ice. 
 - What is the fraction liquid water in mixed-phased clouds. 
