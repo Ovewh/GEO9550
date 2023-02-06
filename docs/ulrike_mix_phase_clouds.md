@@ -1,56 +1,51 @@
 
-## Why do we care about mixed phased clouds?
-Radiation bias due to mixed-phase clouds in the arctic. Too much ice crystals. 
+# Mixed-phase clouds: Insights from observations and modelling
+###### tags: `GEO9550`
 
-What fraction liquid water of mixed-phased clouds. 
-
-"Observation and models are all over the place": Large variablity, processes not correctly captured. 
+### Why do we care about mixed phased clouds?
+- Radiation bias due to mixed-phase clouds in the arctic. Too much ice. 
+- What is the fraction liquid water in mixed-phased clouds. 
+- "Observation and models are all over the place": Large variability, processes are not represented correctly. 
 
 ## How do we get the right number of ice crystal in the clouds. Ice crystal growth
 
-* Holohrapgic imager for Microsopic objects
+### Tool: Holographic imagery of Microscopic objects 
+- Using interference patterns of the laser to count and describe the ice crystals. 
+- The holography method cannot capture the smaller ice crystal, everything smaller than 60 microns are assumed to be cloud droplets.
 
-Use interferance patterns to count the number of ice crystals. 
-Cannot capture the smaller ice crystal, everything smaller than 60 microns are assumed to be cloud droplets.
+### Observation: Discrepancy between INPs and number of ice crystals
+- Primary ice production, formed by mineral dust or organic particles.
+    -  Ice crystals 3 order of magnitude higher. 
+- Secondary ice processes:
+    * Droplet scattering
+    * Ice-ice collision
+    * Rime splintering 
 
-Primary ice production, formed by mineral dust or organic particles.
-Discrepancy between INP and the number of ice crystals. Ice crystals 3 order of magnitude higher. 
-Secondary ice processes:
-* Droplet scattering
-* ice-ice collision
-* rime splintering 
+### Can we observed secondary ice production?
+**Distinguish the large ice particles from the small:**
+- 100 micron corresponds to growthtime of less than two minutes.
+- Small particles have formed in-situ.
 
-## Can we observed secondary ice production?
+**Different regimes:** In INP limited regimes; Secondary ice production causes differences on the order of 10^5^ between INP and number of ice crystals.  
 
-100 micron corresonpd to growtimes less to two minutes. Distinquish the large from the small. Small particles have formed in-situ.
-
-Different regimes INP limited, Secondary ice production regimes 10^5 differences between INP and ice crystals.  
-
-## When does SIP occur?
+#### When does SIP occur?
 Hallip-Mossip process (rime splintering). 
-Secondary ice producition occurs over the whole temperature range. 
+Secondary ice production occurs over the whole temperature range. 
 
-Mechnisms: Want drizzel sized drops, that are common in the arctic ude to low CCN. 
-Drizzle drops together with ice crystals then your have something that can collide. Then you get a feedback loop... 
+**Proposed Mechnisms;** Favors drizzel sized drops, that are common in the arctic under low CCN conditions. Drizzle drops together with ice crystals then your have something that can collide. Then you get a feedback loop... 
 
-Is it special for the arctic?
-No that's not the case, seems to be happening everywhere. 
+**Is it special for the arctic?** No that's not the case, seems to be happening everywhere. 
 
-## Understanding ice crystal growth?
-Is the habits of the ice crystal important? 
+### Understanding ice crystal growth?
+* Is the habits of the ice crystal important? 
+    * Can tell us about the environmental condition under which different kind of ice crystal form.
+* Pretty ice crytals need high super saturation, you don't get these exact shapes in nature. 
+    * E.g. Columns of capped-columns. 
 
-Time to grow get hexagonal shapes, pretty ice crytals need high super saturation. 
+## Can we exploit mixed-phase clouds for local climate engineering?
+Natural phenomenon; Hole punch clouds. Aircraft punching through altocumulus / stratocumulus. The plane increase the vapor pressure and decrease temperature and thus initiate the WBF process.
 
-You don't get these exact shapes in nature. 
+Modelling study showed that modification of mixed-phased clouds can bring about 1 K cooling in the arctic (extreme case). 
 
-Columns of capped-columns. 
-
-## Can we exploit mixed-phase clouds for local climate engineering
-
-Hole punch clouds. Air crafts punching through altocumulus / stratocumulus. The
-plane increase the vapor pressure / decrease temperatrue, initiate the WBF
-process.
-
-about 1 K cooling in the arctic. From modelling study. How quickly does the ice
-crystal grow. Difficult to get realistic environmental conditions in the in lab.
-Cloud lab bring the lab into the arctic.  
+**Remaining questions:** How quickly does the ice crystal grow? Difficult to get realistic environmental conditions in the in lab.
+The CLOUDLAB field campaign will take the lab into the field to study the growth of ice crystals in realistic conditions.  
