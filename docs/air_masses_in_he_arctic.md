@@ -7,25 +7,27 @@
 
 The MOSAIC expedition from September 2019 to October 2020 was the most comprehensive measurement 
 campaign ever conducted in the arctic. The motivation of the MOSAIC campaign was to provide  
-provide measurements of is happening in arctic in under climate climate change, a region have not 
-been measured. The research ship Polarstern spent one year frozen into the arctic sea ice. During 
-the campaign a large collection of measurements of atmospheric properties and 
-composition were performed. 
+provide observational evidence of changes in arctic in under a warming climate, a region due to 
+its inaccessibility have not been extensively been measured. The research ship Polarstern spent one 
+year frozen into the arctic sea ice. During the campaign a large collection of measurements of 
+atmospheric properties and composition were performed. 
 
 To help interpret these measurement backtrajetory simulations using the FLEXPART lagrangian 
 particle dispersion model performed. Simulations where performed every 3 hour starting from the 
 location of the ship and traveling backward 30 days. The information from all trajectories can be 
-synthesized in to create a sensitivity maps. The sensitivity maps is based on the amount of time 
-each trajectory spend in each cell, the more time the trajectories spend over one grid cell the 
+synthesized in to create sensitivity maps. The sensitivity maps is based on the amount of time 
+each trajectory spend in each gridcell, the more time the trajectories spend over one gridcell the 
 more sensitive is the receptor to emissions there. The sensitivity can be coupled with different 
-emissions to create maps of the sources contributing to the different tracers at the ship. 
+emissions to create maps of the sources contributing to the different tracers measured at the ship. 
 
 ### Result of the MOSAIC campaign. 
 
-The year of the MOSAIC campaign was year with the Arctic oscillation in the
+The year of the MOSAIC campaign was year special in therms of the Arctic oscillation (AO) being 
+exceptionally positive. This resulted in a stronger influx of anthropogenic air pollution 
+into the arctic, due to the lower-than-average arctic surface pressure and stormtracks moving 
+further north. This provided favorable conditions for the occurrence of arctic haze which was 
+observed by the Polarstern, having a peak in January/February. The FLEXPART backward trajectories 
+showed that the occurrence of arctic haze coincide with southerly air originating from Eurasian 
+continent. A shift to a more persistent positive AO with a changing climate would make occurrences of arctic haze more common.   
 
-Emissions senstivity below 100m 
-
- 2020 was an exceptional year with respect to the AO. Negative AO inhibits transport from the lower latitudes. Arctic haze.
-
- Summer you can have new particle formation. When transport from continental region you have more aerosols. 
+The occurrence of warm air intrusions into the arctic is projected to increase in a warmer climate. During the MOSAIC campaign a strong warm air intrusion occurred in april of 2020, with the temperature raising from -30 to -3 degrees over 3 days. The warm air intrusion triggered an extreme aerosol event, transforming the pristine arctic into urban-like environment. Significant new particle formation occurred and with PM1 peaks of up to 10 ugm-3. Such concentration of PM1 can only be explained by transport of anthropogenic air pollution. With the increase in aerosols and moisture brought by the warm airmasses also caused increase in CCN and can result in longer lived clouds. 
