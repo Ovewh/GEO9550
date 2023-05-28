@@ -1,61 +1,42 @@
 # Using simple integrated assessment models ot explore human and earth system feedbacks.
 
-FELIX model. Landuse and diatary changes. IAM are complex models of land-ecomomy-climate system using socioecominic assumptions to produces energy land use and emissions scenarios. -> Models used in IPCC assesment. 
+###### tags: `GEO9550`
+**Date:** *Oslo joint seminar May 24th 2023*
 
-Cost-benefit IAMs, COst-effectiveness IAMs 
-
-Process based IAMs: Represent drives of cliamte changes, land use and energy systems. No cost minimazations. 
-
-
-World trans transparent assessment for Real people. 
-
-Weakness:
-
-- Weak representation of social , ahuma and ecomomiuc heteorgeney. 
-- Limited representation of feedbacks between human and nature. 
-
-Emilator simplified versions of ESM and Cliamte models, heavility parameterized. Can run many senarious in a computationally cheap way. 
-
-Simple models in also emergingin in social economic modelling. Simple models comes with large transparencies. THey can explore the uncertainties sinces they have low compuational cost. Larger stakeholder engagement. Explore results in Real time. 
+**Speaker:** *Sibel Eker, Radboud University*
 
 
-## System dynamics.
-Descriptive model. No cost-minimizing etc.
-Based on core concepts of system thinking: 
- - stocks flows delays abd feedback loops. 
+Integrated assessment models (IAM) are models that simulate the whole land-
+economy-climate system using socio-economic assumptions to produce energy, 
+land use, and emissions scenarios. The complexity of the task at hand often 
+leads to models of high complexity, like the models underpinning the IPCC 
+assessments and scenarios.
 
-Time-continous, drynaci behaviour created by feedbacks.
-No descrete events. The time event comes only when you build the model and solve it  
+However, a disadvantage of the big complex IAMs is that they are 
+computationally exhaustive, which means that we cannot explore the 
+uncertainty space to the same degree. In addition, the large complexity makes 
+the model difficult to understand for both stakeholders and scientists.
 
-Only ODE --> makes the models super efficient. 
+Therefore, in recent years, there has been increasing interest in developing 
+simplified and interpretable IAMs. The simple models can explore the 
+uncertainties since they have low computational cost. The low computational 
+cost also enables more stakeholder engagement since results can be explored 
+interactively as policy solutions are explored.
 
-Lead to transparency and cost efficient. 
+The FeliX model is such a simplified model. The model consists of eight 
+sectors: economy, energy, carbon cycle, climate, biodiversity, water, 
+population, and land use. Land use and dietary changes. The model is built on 
+the principles of system thinking, where populations in different groups are 
+represented by stocks, and populations can flow between stocks. Multiple 
+stocks can be connected by multiple flows, creating feedback loops.
 
-Modelling of golbal social changes. --> calibrate and validate social science phenomena. Modelling humans. 
-System dynamic makes it easy to related model behaviour to the structuree. giving cognitevely grounded insights. 
+One example of such feedback mechanisms is studying dietary change; Land is 
+used to create food, and food demand is controlled by the population. Growth 
+in populations creates pressure to use more fertilizer or create more arable 
+land through deforestation. Crop yield and agriculture give the total food 
+supply. GDP is the main driver of food demand.
 
-Flexibility to expand modle boundaries and capture wider feedbakc mechanisism.s
-
-Ability to rapidly simulate the mfro auncerinty analysis and 
-
-Macro level societal trends such as digitalixation, algorithmins makes decisions for us. Now we become categorized in some social segments.
-
-**The limits to growth? World model.**
-
-## The FeliX model
-Capture feedbacks between different models. Societal change for low-carbon consumption. Diatary change and land use change. 
-
-Land use in FLElix model. Forect, Agricultural urban and instducstiral and orther land. 
-
-Feedback mechanisms. Land is used to create food, food demand is controlled by the population. Pressure use more fertilizer og create more aridable land through deforestation. Crop yeild and agricultural give the total food supply. GDP is the main driver of food demand. 
-
-What you eat also affect the food demand. The FLEXI model have 8 different food types. Diatary changes determine the food demand. 
-Land pressure create fertilizer comsumption. 
-
-Eker et al 2019. Eker et al 2018. 
-
-Instead of a small part of the population following a vegean diatle, we need a healty diet, some meat.
-
-Socore the model input in therms of the what is most influencial, social norms is the most important.  
-
-Usefullness is the most important craterions of validity. 
+The model shows that we achieve the greatest effect when a large portion of 
+the population follows a healthy diet, with only some meat, rather than a 
+small part of the population following a vegan diet. The most influential 
+parameter for dietary shift in the model is changes in social norms.
